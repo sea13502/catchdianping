@@ -16,3 +16,5 @@ $("#sendEvent").on("click",function(){
 	console.log( chrome.extension.getBackgroundPage() );
 	//alert(123);
 });
+//hello
+//很浓
